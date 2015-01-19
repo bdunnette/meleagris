@@ -19,3 +19,6 @@ cfs:gridfs
 cfs:ui
 cfs:graphicsmagick
 yogiben:autoform-file
+fuatsengul:leaflet
+mdg:camera
+mdg:geolocation
