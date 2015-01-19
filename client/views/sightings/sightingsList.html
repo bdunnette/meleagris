@@ -1,0 +1,11 @@
+<template name="SightingsList">
+  <h2>New Sightings:</h2>
+  {{> quickForm collection="Sightings" id="insertSightingsForm" type="insert"}}
+  <ul>
+    {{#each this}}
+    <li>
+      <a href="{{pathFor 'SightingsView'}}">{{title}} - {{description}}</a>
+    </li>
+    {{/each}}
+  </ul>
+</template>
