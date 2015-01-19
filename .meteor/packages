@@ -14,3 +14,8 @@ aldeed:collection2
 aldeed:autoform
 aldeed:delete-button
 cfs:http-publish
+cfs:standard-packages
+cfs:gridfs
+cfs:ui
+cfs:graphicsmagick
+yogiben:autoform-file
