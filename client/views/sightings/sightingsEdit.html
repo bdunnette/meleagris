@@ -1,0 +1,4 @@
+<template name="SightingsEdit">
+  <h2>Edit Sightings:</h2>
+  {{> quickForm collection="Sightings" doc=this id="updateSightingsForm" type="update"}} {{> quickRemoveButton collection="Sightings" _id=this._id onSuccess=onDelete class="btn btn-danger"}}
+</template>

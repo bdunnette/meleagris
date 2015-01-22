@@ -14,3 +14,13 @@ twbs:bootstrap
 fortawesome:fontawesome
 ian:accounts-ui-bootstrap-3
 fuatsengul:leaflet
+iron:router
+aldeed:collection2
+aldeed:autoform
+aldeed:delete-button
+cfs:http-publish
+cfs:standard-packages
+cfs:gridfs
+cfs:ui
+cfs:graphicsmagick
+yogiben:autoform-file
